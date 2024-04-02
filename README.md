@@ -8,4 +8,6 @@
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 #### Project
-- AirDnS - [portfolio](https://prairie-provelone-d94.notion.site/AirDnS-fec75abf6958441785710fbbb9a9adb0?pvs=74), [github](https://github.com/AirDnS/airDnS-back)
+- AirDnS
+  - The distance-based study room share platform
+  - [portfolio](https://prairie-provelone-d94.notion.site/AirDnS-fec75abf6958441785710fbbb9a9adb0?pvs=74), [github](https://github.com/AirDnS/airDnS-back)
