@@ -1,5 +1,5 @@
-## Hello, I am ...
-- [Web Developer / Backend Developer (Java, 4+ years)](https://prairie-provelone-d94.notion.site/a60bcfd6e902450e8cf9c3abeb7172b8)
+### Hello, I am ...
+- Web Developer / Backend Developer (Java, 4+ years) - [resume](https://prairie-provelone-d94.notion.site/25feff1ccd29426cb3cc07172fcb9d38)
 - current concern - _AI, Data Engineering_
 
 #### Main Tech
@@ -8,4 +8,4 @@
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 #### Project
-- [AirDnS](https://prairie-provelone-d94.notion.site/AirDnS-fec75abf6958441785710fbbb9a9adb0?pvs=74) 
+- AirDnS - [portfolio](https://prairie-provelone-d94.notion.site/AirDnS-fec75abf6958441785710fbbb9a9adb0?pvs=74), [github](https://github.com/AirDnS/airDnS-back)
