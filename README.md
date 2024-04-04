@@ -1,6 +1,5 @@
 ### Hello, I am ...
 - Web Developer / Backend Developer (Java, 4+ years) - [resume](https://prairie-provelone-d94.notion.site/25feff1ccd29426cb3cc07172fcb9d38)
-- current concern - _AI, Data Engineering_
 
 #### Main Tech
 
