@@ -1,5 +1,5 @@
 ### Hello, I am ...
-- Web Developer / Backend Developer (Java, 4+ years) - [resume](https://prairie-provelone-d94.notion.site/25feff1ccd29426cb3cc07172fcb9d38)
+- Web Developer / Backend Developer (Java, 4+ years) - [portfolio]([https://prairie-provelone-d94.notion.site/25feff1ccd29426cb3cc07172fcb9d38](https://prairie-provelone-d94.notion.site/a60bcfd6e902450e8cf9c3abeb7172b8))
 
 #### Main Tech
 
